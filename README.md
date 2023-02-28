@@ -29,11 +29,11 @@ This repository contains different linter configuration which are independent pa
 ## Installation and running
 
 - In development mode (dependencies of the main package):
-    ```
+    ```shell
     npm ci
     ```
 - Install a specific package in production mode (installation of each configuration):
-    ```
+    ```shell
     npm install CONFIGURATION_PACKAGE_NAME[@VERSION]
     ```
 
